@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	margin-left: 16px;
+	margin-right: 16px;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+font {
+	color: white;
+	float: left;
+}
+
+img {
+	border-width: 10px;
+	border-radius: 10px;
+}
+
+.water {
+	float: left;
+}
